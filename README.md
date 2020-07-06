@@ -1,5 +1,5 @@
 # BF-016
-a 4 bit Computer mode of discrete MOS FET
+a 4 bit computer made of discrete MOS FET
 
 #1 Circuit Diagram
 
